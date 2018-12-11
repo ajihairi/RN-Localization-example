@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/reactnative/Documents/kerjaan/Proofn/RNLocalization/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
